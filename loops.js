@@ -5,7 +5,7 @@ function forLoop (array) {
   return array;
 }
 
-forLoop();
+forLoop(array);
 
 function whileLoop (array) {
 
